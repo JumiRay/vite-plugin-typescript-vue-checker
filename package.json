@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-typescript-vue-checker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check errors in vue and typescript",
   "license": "MIT",
   "main": "dist/index.js",
