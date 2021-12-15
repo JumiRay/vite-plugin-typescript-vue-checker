@@ -19,7 +19,7 @@ yarn add --dev vite-plugin-typescript-vue-checker
 ```ts
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
-import { vueAndTsChecker }  from ' vite-plugin-typescript-vue-checker';
+import { vueAndTsChecker }  from 'vite-plugin-typescript-vue-checker';
 
 export default defineConfig({
     plugins: [vue(), vueAndTsChecker()]
